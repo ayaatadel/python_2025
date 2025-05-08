@@ -33,3 +33,9 @@ git add .
    2- commit ==> delete commit ===> pointer ==> on specific commit
 2- Pull request 
 3-stashing ===> interview questions 
+=============================================> 
+push branch on remote repo
+=====================================>
+remove (Delete branch)brach 
+========> Number of commits in this branch not more than Number of commits in matser
+==================> 
