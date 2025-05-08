@@ -62,10 +62,11 @@ pull from remote to local
 7-git commit -am "message "
 
 ============================>
+stash approach ==> last in first out
 stash ==> stashing ===> change on branch ==> switch to another branch 
 1- if you don't make add or commit ==> make error 
 2- move without making commit ===> stash ===> array ===> 
-===========================================================>
+===========================================================> 
 make stash ==> git stash save
 list all stashes ===> git stash list
 pop up stash content without deleteing from stash list ==> git stash apply
@@ -73,13 +74,6 @@ pop up stash content with deleteing from stash list ==> git stash pop
 ==================> 
 clear stash list ==> git stash clear
 clear specific  stash  ==> git stash drop id ==> stash@{0} 
-show update in stash -==> git stash show
-
-
-
-
-2
-
-1
+show update in stash   ==> git stash show
 
 
