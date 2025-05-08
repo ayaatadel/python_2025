@@ -1,0 +1,35 @@
+working ==========> your pc ==> Vs
+staging ====> git add fileName  
+ ====> git add .
+ ====> git add *
+ ====> git add -a
+ ====> git add --all
+ local ===> git commit -m "message"
+ working ==> local===> git commit -am "message"
+ local===> git commit -a -m "message"
+
+ ======> remote ===> (server)==>github (https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup#_editor)
+ link ===> local ===> remote  
+ =============>remote ===> userName ==>  email
+
+ ==> userName==> git config --global user.name "iti"
+ ==> Email==> git config --global user.email "iti"
+ ==============================================================>
+ link between remote and local
+ =====> variable ==> origin ===> git remote add origin repo_link
+
+ ===================>
+ add commit (update )==> git commit --amend
+ ==========================>
+ show all commit 
+ git log  ==> all information about commit 
+      1- userName 
+      2- commit hashID
+      3- Commit content 
+ git log --oneline ===> commit and hashID
+
+
+ =====> default editor VSCode 
+ 	
+git config --global core.editor "code --wait" 
+

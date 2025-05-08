@@ -1,0 +1,79 @@
+1- Branches 
+============> add feature , fix bug ===> 
+====> create navbar ==>new feature ===> git branch branchName 
+===> list branches   ==> git branch 
+===================================================
+Haed pointer ===> on branch 
+switch from branch to another branch ==> git switch  branchName
+
+===================================================================>
+  create branch 
+    remove branch ==> local , remote 
+   switch from branch to another branch
+   push from branch to repo 
+==================================================>
+mergeing branches ====>
+===> you are in master branch 
+================> merge between master and content
+git status
+git switch branch that you want to merge  it==
+git switch content 
+git status
+git merge master===> check if their conflict or not
+==> git add .
+===> git commit -m ""
+========================>
+git switch master
+git status
+git merge content ===> check if their conflict or not
+git add .
+===> git commit -m ""
+========================> git push origin master
+
+   2- commit ==> delete commit ===> pointer ==> on specific commit
+2- Pull request 
+3-stashing ===> interview questions 
+=============================================> 
+push branch on remote repo
+=====================================>
+remove (Delete branch)brach 
+========> 1- Number of commits in this branch not more than Number of commits in matser
+2- while deleteing switch to another brach except deleteing branch
+
+local ======================> git branch -d Navbar
+remote ================> git push origin -d Navbar
+==================> 
+
+reset commit without deleting changes
+git reset --soft Head^
+reset commit with deleting changes
+git reset --hard Head^   ===> ^ ==> refers to number of back steps
+
+=====================================
+merge on remote ===> pull request ==> admin ===> accept ==> and solve conflicts
+=========================================================>
+pull from remote to local 
+1- git status 
+2- git pull orogin branch(remote : your branch)
+3- check if their is any conflicts and solve it 
+4-git commit -am "message "
+5- git pull origin  master 
+6- check if their is any conflicts and solve it 
+7-git commit -am "message "
+
+============================>
+stash approach ==> last in first out
+stash ==> stashing ===> change on branch ==> switch to another branch 
+1- if you don't make add or commit ==> make error 
+2- move without making commit ===> stash ===> array ===> 
+===========================================================> 
+make stash ==> git stash save
+list all stashes ===> git stash list
+pop up stash content without deleteing from stash list ==> git stash apply
+pop up stash content with deleteing from stash list ==> git stash pop
+==================> 
+clear stash list ==> git stash clear
+clear specific  stash  ==> git stash drop id ==> stash@{0} 
+show update in stash   ==> git stash show
+
+
