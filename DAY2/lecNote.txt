@@ -70,3 +70,8 @@ make stash ==> git stash save
 list all stashes ===> git stash list
 pop up stash content without deleteing from stash list ==> git stash apply
 pop up stash content with deleteing from stash list ==> git stash pop
+==================> 
+clear stash list ==> git stash clear
+clear specific  stash  ==> git stash drop id ==> stash@{0} 
+show update in stash -==> git stash show
+
