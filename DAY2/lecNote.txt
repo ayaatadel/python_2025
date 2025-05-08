@@ -50,7 +50,7 @@ reset commit with deleting changes
 git reset --hard Head^   ===> ^ ==> refers to number of back steps
 
 =====================================
-merge on remote ===> pull request ==> admin ===> accept
+merge on remote ===> pull request ==> admin ===> accept ==> and solve conflicts
 =========================================================>
 pull from remote to local 
 1- git status 
