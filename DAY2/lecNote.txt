@@ -1,25 +1,13 @@
 1- Branches 
-jsadkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-
-
-
-jsadahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-jllllllllllllllllllllllllllllllllllllll
-
-sdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-
-ksssssssssssssssssssssssssssssssssssssss
-skkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 ============> add feature , fix bug ===> 
 ====> create navbar ==>new feature ===> git branch branchName 
 ===> list branches   ==> git branch 
 ===================================================
-Haed pointer ===> on branch jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
-kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+Haed pointer ===> on branch 
 switch from branch to another branch ==> git switch  branchName
 
 ===================================================================>
- llllllllllllllllllll  create branch 
+  create branch 
     remove branch ==> local , remote 
    switch from branch to another branch
    push from branch to repo 
@@ -41,28 +29,6 @@ git merge content ===> check if their conflict or not
 git add .
 ===> git commit -m ""
 ========================> git push origin master
-
-
-
-
-
-
-
-============================================
-=====================================
-
-
-
-
-
-
-
-
-
-
-
-
-
 
    2- commit ==> delete commit ===> pointer ==> on specific commit
 2- Pull request 
