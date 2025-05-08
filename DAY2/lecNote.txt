@@ -1,0 +1,18 @@
+1- Branches 
+   create branch 
+   remove branch ==> local , remote 
+   switch from branch to another branch
+   push from branch to repo 
+==================================================>
+
+
+
+
+
+
+
+
+
+   2- commit ==> delete commit ===> pointer ==> on specific commit
+2- Pull request 
+3-stashing ===> interview questions 
