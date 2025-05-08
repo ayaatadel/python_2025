@@ -60,3 +60,13 @@ pull from remote to local
 5- git pull origin  master 
 6- check if their is any conflicts and solve it 
 7-git commit -am "message "
+
+============================>
+stash ==> stashing ===> change on branch ==> switch to another branch 
+1- if you don't make add or commit ==> make error 
+2- move without making commit ===> stash ===> array ===> 
+===========================================================>
+make stash ==> git stash save
+list all stashes ===> git stash list
+pop up stash content without deleteing from stash list ==> git stash apply
+pop up stash content with deleteing from stash list ==> git stash pop
