@@ -75,3 +75,8 @@ clear stash list ==> git stash clear
 clear specific  stash  ==> git stash drop id ==> stash@{0} 
 show update in stash -==> git stash show
 
+
+
+
+
+2
