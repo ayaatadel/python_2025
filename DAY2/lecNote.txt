@@ -51,3 +51,12 @@ git reset --hard Head^   ===> ^ ==> refers to number of back steps
 
 =====================================
 merge on remote ===> pull request ==> admin ===> accept
+=========================================================>
+pull from remote to local 
+1- git status 
+2- git pull orogin branch(remote : your branch)
+3- check if their is any conflicts and solve it 
+4-git commit -am "message "
+5- git pull origin  master 
+6- check if their is any conflicts and solve it 
+7-git commit -am "message "
