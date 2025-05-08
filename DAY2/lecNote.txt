@@ -37,5 +37,9 @@ git add .
 push branch on remote repo
 =====================================>
 remove (Delete branch)brach 
-========> Number of commits in this branch not more than Number of commits in matser
+========> 1- Number of commits in this branch not more than Number of commits in matser
+2- while deleteing switch to another brach except deleteing branch
+
+local ======================> git branch -d Navbar
+remote ================> git push origin -d Navbar
 ==================> 
