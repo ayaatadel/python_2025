@@ -15,6 +15,19 @@ switch from branch to another branch ==> git switch  branchName
 
 
 
+============================================
+=====================================
+
+
+
+
+
+
+try to make conflict on branch content 
+djasfhdjshfjdjjjjjjjjjjjjjjjjjjjj           
+                       kefffffffffffff
+
+
 
 
 
