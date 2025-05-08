@@ -14,12 +14,13 @@ skkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 ====> create navbar ==>new feature ===> git branch branchName 
 ===> list branches   ==> git branch 
 ===================================================
-Haed pointer ===> on branch 
+Haed pointer ===> on branch jjjjjjjjjjjjjjjjjjjjjjjjjjjjj
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 switch from branch to another branch ==> git switch  branchName
 
 ===================================================================>
-   create branch 
-   remove branch ==> local , remote 
+ llllllllllllllllllll  create branch 
+    remove branch ==> local , remote 
    switch from branch to another branch
    push from branch to repo 
 ==================================================>
