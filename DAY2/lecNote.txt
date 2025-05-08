@@ -1,4 +1,15 @@
 1- Branches 
+jsadkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+
+
+jsadahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+jllllllllllllllllllllllllllllllllllllll
+
+sdkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+ksssssssssssssssssssssssssssssssssssssss
+skkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 ============> add feature , fix bug ===> 
 ====> create navbar ==>new feature ===> git branch branchName 
 ===> list branches   ==> git branch 
@@ -44,9 +55,6 @@ git add .
 
 
 
-try to make conflict on branch content 
-djasfhdjshfjdjjjjjjjjjjjjjjjjjjjj           
-                       kefffffffffffff
 
 
 
