@@ -1,4 +1,12 @@
 1- Branches 
+============> add feature , fix bug ===> 
+====> create navbar ==>new feature ===> git branch branchName 
+===> list branches   ==> git branch 
+===================================================
+Haed pointer ===> on branch 
+switch from branch to another branch ==> git switch  branchName
+
+===================================================================>
    create branch 
    remove branch ==> local , remote 
    switch from branch to another branch
