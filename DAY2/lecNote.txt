@@ -12,6 +12,27 @@ switch from branch to another branch ==> git switch  branchName
    switch from branch to another branch
    push from branch to repo 
 ==================================================>
+mergeing branches ====>
+===> you are in master branch 
+================> merge between master and content
+git status
+git switch branch that you want to merge  it==
+git switch content 
+git status
+git merge master===> check if their conflict or not
+==> git add .
+===> git commit -m ""
+========================>
+git switch master
+git status
+git merge content ===> check if their conflict or not
+git add .
+===> git commit -m ""
+========================> git push origin master
+
+
+
+
 
 
 
