@@ -1,3 +1,13 @@
+Agenda 
+=============
+delete commit 
+branches [create , switch, merge in local , add branch to remote ,remove branch (local , remote) ]
+pull request from remote
+
+stashing
+
+
+
 1- Branches 
 ============> add feature , fix bug ===> 
 ====> create navbar ==>new feature ===> git branch branchName 
@@ -7,11 +17,6 @@ Haed pointer ===> on branch
 switch from branch to another branch ==> git switch  branchName
 
 ===================================================================>
-  create branch 
-    remove branch ==> local , remote 
-   switch from branch to another branch
-   push from branch to repo 
-==================================================>
 mergeing branches ====>
 ===> you are in master branch 
 ================> merge between master and content
